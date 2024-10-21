@@ -1,4 +1,8 @@
 **esp_mqtt**
+
+This README was not made by me (Jegheterkevin1). It is the first time I use github
+
+
 ==========
 This is MQTT client library for ESP8266, port from: [MQTT client library for Contiki](https://github.com/esar/contiki-mqtt) (thanks)
 
