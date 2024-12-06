@@ -1,6 +1,6 @@
 **esp_mqtt**
 
-This README was not made by [@JegHeterKevin1](https://github.com/JegHeterKevin1). and [@Joliaus](https://github.com/Joliaus).
+This README was not made by [@Kevin-Pottier](https://github.com/Kevin-Pottier). and [@Joliaus](https://github.com/Joliaus).
 
 
 ==========
